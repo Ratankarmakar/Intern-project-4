@@ -1,0 +1,14 @@
+.post{
+	background-color:#b9b9b9
+}
+h1{
+	margin:0;
+	font-size:24px;
+	padding-bottom:8px;
+}
+footer{
+	background-color:#202246;
+}
+footer ul li a{
+	padding:10px 20px;
+}
